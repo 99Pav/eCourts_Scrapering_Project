@@ -1,0 +1,32 @@
+{
+  "court_code": "C1401_CRT_2",
+  "court_name": "C1401_CRT_2 Simulated Court",
+  "date": "21-10-2025",
+  "mode": "criminal",
+  "cases": [
+    {
+      "serial_no": 1,
+      "case_no": "CNRRT_200012025",
+      "petitioner": "Petitioner 1",
+      "respondent": "Respondent 1"
+    },
+    {
+      "serial_no": 2,
+      "case_no": "CNRRT_200022025",
+      "petitioner": "Petitioner 2",
+      "respondent": "Respondent 2"
+    },
+    {
+      "serial_no": 3,
+      "case_no": "CNRRT_200032025",
+      "petitioner": "Petitioner 3",
+      "respondent": "Respondent 3"
+    },
+    {
+      "serial_no": 4,
+      "case_no": "CNRRT_200042025",
+      "petitioner": "Petitioner 4",
+      "respondent": "Respondent 4"
+    }
+  ]
+}

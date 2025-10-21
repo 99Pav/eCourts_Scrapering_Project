@@ -1,0 +1,26 @@
+{
+  "court_code": "C0101_CRT_2",
+  "court_name": "C0101_CRT_2 Simulated Court",
+  "date": "21-10-2025",
+  "mode": "civil",
+  "cases": [
+    {
+      "serial_no": 1,
+      "case_no": "CNRRT_200012025",
+      "petitioner": "Petitioner 1",
+      "respondent": "Respondent 1"
+    },
+    {
+      "serial_no": 2,
+      "case_no": "CNRRT_200022025",
+      "petitioner": "Petitioner 2",
+      "respondent": "Respondent 2"
+    },
+    {
+      "serial_no": 3,
+      "case_no": "CNRRT_200032025",
+      "petitioner": "Petitioner 3",
+      "respondent": "Respondent 3"
+    }
+  ]
+}
